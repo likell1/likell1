@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻About
+## 👨‍💻 About
 I am studying data engineering with a focus on building reliable and scalable data pipelines.
 
 My interests include the full lifecycle of data systems — ingestion, processing, storage, and automation — as well as operating data workloads in distributed and containerized environments.
@@ -20,7 +20,7 @@ My interests include the full lifecycle of data systems — ingestion, processin
 I am particularly interested in:
 - Designing robust batch and streaming pipelines
 - Understanding system reliability and failure handling
-- Building reproducible and maintainable data/ML workflows
+- Building reproducible and maintainable data and ML workflows
 
 ---
 
@@ -72,3 +72,5 @@ I am particularly interested in:
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/likell1&title=visitors"/>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=D6B4FF&height=120&section=footer)
