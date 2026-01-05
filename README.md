@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi, I'm likell1</h2>
 
 <p align="center">
-  <b>데이터 엔지니어를 공부하는 사람</b><br/>
+  <b>Data Engineer</b><br/>
   Data pipelines · Distributed systems · MLOps
 </p>
 
