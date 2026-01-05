@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=700&lines=Data+Engineering+Learner;Building+Reliable+Data+Pipelines;Spark+%7C+Kafka+%7C+Docker+%7C+Kubernetes" />
-</p>
-
 <h2 align="center">likell1</h2>
 
 <p align="center">
-  Data Engineer in training · Data pipelines · Distributed systems
+  Data Engineering · Distributed Systems · MLOps
 </p>
+
+<p align="center">
+  Spark · Kafka · Docker · Kubernetes
+</p>
+
 
 ---
 
