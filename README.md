@@ -10,7 +10,7 @@
 
 ---
 
-## About
+## 👨‍💻About
 I am studying data engineering with a focus on building reliable and scalable data pipelines.
 
 My interests include the full lifecycle of data systems — ingestion, processing, storage, and automation — as well as operating data workloads in distributed and containerized environments.
@@ -22,7 +22,7 @@ I am particularly interested in:
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -46,15 +46,15 @@ I am particularly interested in:
 
 ---
 
-## Engineering Focus
-- Reliability and fault tolerance in data pipelines
+## 🚀 Engineering Focus
+- Reliability and fault tolerance in ETL/ELT data pipelines
 - Latency and consistency trade-offs in streaming systems
 - Containerized execution and deployment environments
 - Experiment tracking and reproducibility for ML workflows
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likell1&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likell1&layout=compact&theme=tokyonight" height="160"/>
@@ -62,7 +62,7 @@ I am particularly interested in:
 
 ---
 
-## Contact
+## 📫 Contact
 - Email: **eru010930@gmail.com**
 
 ---
