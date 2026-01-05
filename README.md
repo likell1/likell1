@@ -1,12 +1,10 @@
-<h2 align="center">likell1</h2>
+```text
+likell1@github
+-----------------------------
+role: data engineering learner
+focus: pipelines / streaming / infra
+stack: spark, kafka, docker, k8s
 
-<p align="center">
-  Data Engineering · Distributed Systems · MLOps
-</p>
-
-<p align="center">
-  Spark · Kafka · Docker · Kubernetes
-</p>
 
 
 ---
