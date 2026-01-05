@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D6B4FF&height=180&section=header&text=likell1&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 <h2 align="center">likell1</h2>
 
@@ -76,6 +75,3 @@ I am particularly interested in:
 
 ## 🧊 3D Contribution Graph
 ![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=D6B4FF&height=120&section=footer)
