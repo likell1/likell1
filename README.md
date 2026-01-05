@@ -8,20 +8,21 @@
   Spark · Kafka · Docker · Kubernetes
 </p>
 
+---
+
+## About
+I am studying data engineering with a focus on building reliable and scalable data pipelines.
+
+My interests include the full lifecycle of data systems — ingestion, processing, storage, and automation — as well as operating data workloads in distributed and containerized environments.
+
+I am particularly interested in:
+- Designing robust batch and streaming pipelines
+- Understanding system reliability and failure handling
+- Building reproducible and maintainable data/ML workflows
 
 ---
 
-## 👨‍💻 About
-- 데이터 **수집 → 처리 → 저장 → 자동화** 전 과정을 고민하며 학습
-- Spark / Kafka 기반 **배치·스트리밍 파이프라인** 구현 경험
-- Docker / Kubernetes 환경에서의 **운영·배포 구조** 이해
-- ML 파이프라인을 고려한 **MLOps 흐름** 학습 중
-
-> 관심사: 데이터 신뢰성, 파이프라인 안정성, 재현 가능한 실험 환경
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -45,15 +46,15 @@
 
 ---
 
-## 🚀 Engineering Focus
-- 데이터 파이프라인 **신뢰성 & 장애 대응**
-- 스트리밍 처리에서의 **지연(latency)과 일관성**
-- 컨테이너 기반 **재현 가능한 실행 환경**
-- ML 실험의 **추적·관리·자동화**
+## Engineering Focus
+- Reliability and fault tolerance in data pipelines
+- Latency and consistency trade-offs in streaming systems
+- Containerized execution and deployment environments
+- Experiment tracking and reproducibility for ML workflows
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likell1&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likell1&layout=compact&theme=tokyonight" height="160"/>
@@ -61,8 +62,8 @@
 
 ---
 
-## 📫 Contact
-- 📧 Email: **eru010930@gmail.com**
+## Contact
+- Email: **eru010930@gmail.com**
 
 ---
 
