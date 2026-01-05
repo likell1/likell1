@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Data+Engineering+Learner;Building+Data+Pipelines;Spark+%7C+Kafka+%7C+Airflow+%7C+Docker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Data+Engineering;Building+Data+Pipelines;Spark+%7C+Kafka+%7C+Airflow+%7C+Docker" />
 </p>
 
 <h2 align="center">👋 Hi, I'm likell1</h2>
