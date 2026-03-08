@@ -65,7 +65,7 @@ I am particularly interested in:
 <img
   src="https://render.gitanimals.org/farms/likell1"
   width="1000"
-  height="300"
+  height="600"
 />
 </a>
 
