@@ -55,22 +55,14 @@ I am particularly interested in:
 
 ---
 
-## 📊 GitHub Stats
-<a href="https://github.com/likell1/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{likell1}"/>
-</a>
-
----
-
 ## 📫 Contact
 - Email: **eru010930@gmail.com**
 
 ---
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/likell1&title=visitors"/>
-</p>
+<a href="https://github.com/likell1/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{likell1}"/>
+</a>
 
-
-## 🧊 3D Contribution Graph
+## 🧊 Status
 ![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
