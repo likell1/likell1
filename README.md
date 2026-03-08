@@ -64,9 +64,11 @@ I am particularly interested in:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/likell1"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
+
+---
 
 ![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
