@@ -56,10 +56,9 @@ I am particularly interested in:
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likell1&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likell1&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<a href="https://github.com/likell1/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{likell1}"/>
+</a>
 
 ---
 
