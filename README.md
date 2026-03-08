@@ -2,7 +2,7 @@
 <h2 align="center">likell1</h2>
 
 <p align="center">
-  Data Engineering · Distributed Systems · MLOps
+  Data Engineering · MLOps · AI Engineering
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ I am particularly interested in:
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 - Email: **eru010930@gmail.com**
 
 ---
@@ -68,7 +68,5 @@ I am particularly interested in:
   height="600"
 />
 </a>
-
 ---
 
-![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
