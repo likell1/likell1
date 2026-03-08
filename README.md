@@ -60,9 +60,13 @@ I am particularly interested in:
 
 ---
 
-<a href="https://github.com/likell1/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{likell1}"/>
+## 🧊 Status
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/likell1"
+  width="600"
+  height="300"
+/>
 </a>
 
-## 🧊 Status
 ![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
