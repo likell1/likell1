@@ -64,7 +64,7 @@ I am particularly interested in:
 ## 🐤 Status
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/likell1"
+  src="https://render.gitanimals.org/farms/likell1?v=1"
   width="1000"
   height="600"
 />
