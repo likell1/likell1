@@ -23,7 +23,7 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 
 > 🎓 **Konkuk University**  
 > 2022.03. ~ Present  
-> Applied Statistics / Computer Science
+> Applied Statistics / Computer Science & Engineering
 
 > 📊 **Boaz Data Engineering Club**  
 > 2025.07. ~ Present  
