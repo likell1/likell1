@@ -1,10 +1,7 @@
-
 <h2 align="center">likell1</h2>
-
 <p align="center">
   Data Engineering · MLOps · AI Engineering
 </p>
-
 <p align="center">
   Spark · Kafka · Docker · Kubernetes
 </p>
@@ -12,14 +9,27 @@
 ---
 
 ## 👨‍💻 About
-I am studying data engineering with a focus on building reliable and scalable data pipelines.
 
-My interests include the full lifecycle of data systems — ingestion, processing, storage, and automation — as well as operating data workloads in distributed and containerized environments.
+I'm a data engineer focused on building reliable, scalable data pipelines and distributed systems.  
+My work spans the full data lifecycle — ingestion, processing, storage, and automation — with a strong interest in operating workloads in containerized and cloud-native environments.
 
-I am particularly interested in:
-- Designing robust batch and streaming pipelines
-- Understanding system reliability and failure handling
-- Building reproducible and maintainable data and ML workflows
+- Designing robust batch and streaming pipelines  
+- Understanding system reliability and failure handling  
+- Building reproducible and maintainable data and ML workflows  
+
+---
+
+## 🏢 Career
+
+>
+**🎓 Konkuk University**  
+2022.03. ~ Present  
+Applied Statistics / Computer Science
+
+**📊 Boaz Data Engineering Club**  
+2025.07. ~ Present  
+25th Club President | Data Engineering Division
+>
 
 ---
 
@@ -49,19 +59,22 @@ I am particularly interested in:
 ---
 
 ## 🚀 Engineering Focus
-- Reliability and fault tolerance in ETL/ELT data pipelines
-- Latency and consistency trade-offs in streaming systems
-- Containerized execution and deployment environments
-- Experiment tracking and reproducibility for ML workflows
+
+- Reliability and fault tolerance in ETL/ELT data pipelines  
+- Latency and consistency trade-offs in streaming systems  
+- Containerized execution and deployment environments  
+- Experiment tracking and reproducibility for ML workflows  
 
 ---
 
 ## 📫 Contact Me
+
 - Email: **eru010930@gmail.com**
 
 ---
 
 ## 🐤 Status
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/likell1?v=1"
@@ -69,4 +82,3 @@ I am particularly interested in:
   height="600"
 />
 </a>
-
