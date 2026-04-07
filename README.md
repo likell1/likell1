@@ -76,7 +76,7 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/likell1?v=1"
-  width="1000"
-  height="600"
+  width="800"
+  height="500"
 />
 </a>
