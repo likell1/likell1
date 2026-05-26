@@ -9,7 +9,6 @@
 ---
 
 ## 👨‍💻 About
-
 I'm a data engineer focused on building reliable, scalable data pipelines and distributed systems.  
 My work spans the full data lifecycle — ingestion, processing, storage, and automation — with a strong interest in operating workloads in containerized and cloud-native environments.
 
@@ -20,7 +19,6 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 ---
 
 ## 🏢 Career
-
 > 🎓 **Konkuk University**  
 > 2022.03. ~ Present  
 > Applied Statistics / Computer Science & Engineering
@@ -32,7 +30,6 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 ---
 
 ## 🛠 Tech Stack
-
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -56,23 +53,15 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 
 ---
 
-## 🚀 Engineering Focus
+## 📊 Most Used Languages
 
-- Reliability and fault tolerance in ETL/ELT data pipelines  
-- Latency and consistency trade-offs in streaming systems  
-- Containerized execution and deployment environments  
-- Experiment tracking and reproducibility for ML workflows  
-
----
-
-## 📫 Contact Me
-
-- Email: **eru010930@gmail.com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likell1&layout=compact&theme=dark" />
+</p>
 
 ---
 
 ## 🐤 Status
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/likell1?v=1"
