@@ -53,14 +53,6 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likell1&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🐤 Status
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
