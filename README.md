@@ -29,6 +29,12 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 
 ---
 
+## 📁 Project
+> **BOAZ Website TF팀**
+> PM
+
+---
+
 ## 🛠 Tech Stack
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
