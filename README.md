@@ -24,7 +24,7 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 > Applied Statistics / Computer Science & Engineering
 
 > 📊 **Boaz Data Engineering Club**  
-> 2025.07. ~ Present  
+> 2025.07. ~ 2026.07
 > Club President | Data Engineering Division
 
 ---
