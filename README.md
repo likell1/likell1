@@ -60,10 +60,10 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 ---
 
 ## 🐤 Status
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=likell1&utm_content=farm">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=likell1&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/likell1?v=1"
+  src="https://render.gitanimals.org/farms/likell1"
   width="800"
-  height="500"
+  height="400"
 />
 </a>
