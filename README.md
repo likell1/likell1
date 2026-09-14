@@ -1,11 +1,11 @@
-<h2 align="center">likell1</h2>
-<p align="center">
-  Data Engineering · MLOps · AI Engineering
-</p>
-<p align="center">
-  Spark · Kafka · Docker · Kubernetes
-</p>
-
+## 🐤 Status
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=likell1&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/likell1"
+  width="800"
+  height="400"
+/>
+</a>
 ---
 
 ## 👨‍💻 About
@@ -56,14 +56,3 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 ### ML / MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-017CEE?style=flat&logo=mlflow&logoColor=white)
-
----
-
-## 🐤 Status
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=likell1&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/likell1"
-  width="800"
-  height="400"
-/>
-</a>
