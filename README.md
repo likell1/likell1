@@ -26,6 +26,9 @@ My work spans the full data lifecycle — ingestion, processing, storage, and au
 > 2025.07. ~ 2026.07
 > Club President | Data Engineering Division
 
+> **GDGoC Konkuk**
+> 2026.09 ~ Present
+
 ---
 
 ## 📁 Project
